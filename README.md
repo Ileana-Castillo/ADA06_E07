@@ -3,8 +3,8 @@ Algoritmos de Ordenamiento
 
 ## EQUIPO
 
-Ileana Gabriela Castillo Sánchez
-Endrick Alfredo Pool Flores
+* Ileana Gabriela Castillo Sánchez
+* Endrick Alfredo Pool Flores
 
 ## DESCRIPCIÓN
 
