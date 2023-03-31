@@ -1,5 +1,5 @@
 # ADA06_E07
-Algoritmos de Ordenamiento
+# Algoritmos de Ordenamiento
 
 ## EQUIPO
 
@@ -22,4 +22,29 @@ También, al ejecutarse, el programa proporciona un archivo de salida CSV (datos
 * QuickSort_ordenado.csv
 * RadixSort_ordenado.csv
 
-## CÓMO CLONAR ESTE REPOSITORIO Y UTILIZAR LA APLICACIÓN
+## CÓMO CLONAR ESTE REPOSITORIO
+
+1. Elija la carpeta en donde desee clonar el repositorio. Por ejemplo, la de Documentos. Abra una terminal y ubíquese en la carpeta creada. Desde Windows puede ejecutar el siguiente comando para clonarlo en la carpeta "Documentos":
+```
+cd Documents
+```
+2. En la terminal, escriba lo siguiente:
+```
+git clone https://github.com/Ileana-Castillo/ADA06_E07
+```
+3. Así, el repositorio se clonará en la carpeta en la que se ha ubicado.
+
+## COMPILAR Y EJECUTAR LA APLICACIÓN
+1. Abra una terminal
+2. Desde la terminal, ubíquese en la carpeta "ADA06_E07" (la cual es donde se encuentra el programa) con el comando:
+```
+cd Documents\ADA06_E07
+```
+3. Compile el programa con el comando:
+```
+javac *.java
+```
+4. Ejecute el programa con el comando:
+```
+java AlgoritmosOrdApp
+```
