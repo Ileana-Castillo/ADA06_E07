@@ -1,0 +1,5 @@
+Datos, Tiempo Ejecucion:, Num Comparaciones:, Num Intercambios:, 
+BIS , 21 , 22622 , 22025 , 
+MS , 3 , 4879 , 2488 , 
+QS , 3 , 0 , 0 , 
+RS , 0 , 0 , 0 , 
